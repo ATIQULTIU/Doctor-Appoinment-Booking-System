@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.active li{
+    @apply text-cyan-500
+}
+
+
+::-webkit-scrollbar{
+    @apply hidden
+}
